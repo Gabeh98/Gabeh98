@@ -58,4 +58,5 @@ Here are some ideas to get you started:
 
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabeh98&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabeh98&layout=compact)](https://github.com/Gabeh98/github-readme-stats)
 
