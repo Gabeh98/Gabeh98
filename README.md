@@ -57,6 +57,5 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<!--
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beertoni&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beertoni&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Beertoni/github-readme-stats)-->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabeh98&show_icons=true&theme=dracula)
+
