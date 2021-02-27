@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/gabeh98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Linkedin.png" />](https://www.linkedin.com/in/gabriel-henrique-431860140/)
+[<img align="left" alt="https://www.linkedin.com/in/gabeh98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Linkedin.png" />](https://www.linkedin.com/in/gabeh98/)
 [<img align="left" alt="https://www.instagram.com/gabeh_98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Instagram.png" />](https://www.instagram.com/gabeh_98/)
 <!--[<img align="left" alt="https://www.youtube.com/channel/UCfIBxtbvSlEoUEi4eNL9LQA?view_as=subscriber" width="250px" src="https://github.com/eeikee/eeikee/blob/master/youtube.png" />](https://bit.ly/eeikee-yt) 
 -->
