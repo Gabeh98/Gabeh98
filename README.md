@@ -1,6 +1,6 @@
 ⚡ Dev ⚡
 
-![](https://komarev.com/ghpvc/?username=gabeh98&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=gabeh98&color=E91E63)
 
 Here are some ideas to get you started:
 
