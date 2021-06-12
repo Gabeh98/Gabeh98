@@ -1,10 +1,7 @@
-⚡ Dev ⚡
+🚀 Software Developer 🚀
 
 ![](https://komarev.com/ghpvc/?username=gabeh98&color=E91E63)
-
-
 ### Connect with me:
-
 [<img align="left" alt="https://www.linkedin.com/in/gabeh98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Linkedin.png" />](https://www.linkedin.com/in/gabeh98/)
 [<img align="left" alt="https://www.instagram.com/gabeh_98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Instagram.png" />](https://www.instagram.com/gabeh_98/)
 <br />
@@ -13,7 +10,6 @@
 <br />
 ---
 ### Languages and Tools:
-
 <img align="left" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="left" alt="Eclipse" width="50px" src="https://img.icons8.com/nolan/64/java-eclipse.png" />
