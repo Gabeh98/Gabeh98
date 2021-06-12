@@ -10,8 +10,12 @@
 <br />
 ---
 ### Languages and Tools:
+
 <img align="left" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+<img align="left" alt="react" width="50px" src="https://img.icons8.com/offices/120/000000/react.png"/>
+<img align="left" alt="redux" width="50px" src="https://img.icons8.com/color/144/000000/redux.png"/>
+<img align="left" alt="flutter" width="50px" src="https://img.icons8.com/color/144/000000/flutter.png"/>
 <img align="left" alt="Eclipse" width="50px" src="https://img.icons8.com/nolan/64/java-eclipse.png" />
 <img align="left" alt="intellij" width="50px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
