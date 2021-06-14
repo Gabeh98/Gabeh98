@@ -6,7 +6,8 @@
 <a href="https://imgur.com/oMd5Gfj"><img src="https://i.imgur.com/oMd5Gfj.png" title="banner" /></a>
 
 
-### Connect with me:
+<h1 align="center"> Connect with me</h1>
+
 [<img align="left" alt="https://www.linkedin.com/in/gabeh98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Linkedin.png" />](https://www.linkedin.com/in/gabeh98/)
 [<img align="left" alt="https://www.instagram.com/gabeh_98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Instagram.png" />](https://www.instagram.com/gabeh_98/)
 <br />
@@ -14,7 +15,7 @@
 <br />
 
 ---
-### Languages and Tools:
+<h1 align="center">Languages and Tools</h1>
 
 <img align="left" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
