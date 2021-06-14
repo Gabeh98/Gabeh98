@@ -1,7 +1,7 @@
 🚀 Software Developer 🚀
 <br />
 <br />
-<a href="https://imgur.com/D6HvLlP"><img src="https://i.imgur.com/D6HvLlP.png" title="banner" /></a>
+<a href="https://imgur.com/oMd5Gfj"><img src="https://i.imgur.com/oMd5Gfj.png" title="banner" /></a>
 
 ![](https://komarev.com/ghpvc/?username=gabeh98&color=E91E63)
 ### Connect with me:
