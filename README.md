@@ -1,16 +1,18 @@
+<h1 align="center">
 🚀 Software Developer 🚀
+</h1>
 <br />
 <br />
 <a href="https://imgur.com/oMd5Gfj"><img src="https://i.imgur.com/oMd5Gfj.png" title="banner" /></a>
 
-![](https://komarev.com/ghpvc/?username=gabeh98&color=E91E63)
+
 ### Connect with me:
 [<img align="left" alt="https://www.linkedin.com/in/gabeh98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Linkedin.png" />](https://www.linkedin.com/in/gabeh98/)
 [<img align="left" alt="https://www.instagram.com/gabeh_98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Instagram.png" />](https://www.instagram.com/gabeh_98/)
 <br />
 <br />
 <br />
-<br />
+
 ---
 ### Languages and Tools:
 
