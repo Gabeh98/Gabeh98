@@ -3,7 +3,7 @@
 </h1>
 <br />
 <br />
-<a href="https://imgur.com/oMd5Gfj"><img src="https://i.imgur.com/oMd5Gfj.png" title="banner" /></a>
+<a href="https://imgur.com/nGNGWUp"><img src="https://i.imgur.com/nGNGWUp.png" title="banner" /></a>
 
 
 <h1 align="center"> Connect with me</h1>
